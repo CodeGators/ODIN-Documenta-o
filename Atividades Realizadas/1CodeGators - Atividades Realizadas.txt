@@ -1,0 +1,41 @@
+16/09/2025
+
+Atividades Realizadas:
+
+Gustavo Silva dos Reis:
+
+GAP01: Separação de Funções ( Gestão Ágil );
+
+Anderson Fontes, Arthur Augusto, Gustavo Silva, Rafael Shinji, Stefan Souza:
+
+GA-002: Levantamento de Requisistos; ( Gestão Ágil );
+GA-003: Backlog; ( Gestão Ágil );
+GA-004: Sprint Backlog; ( Gestão Ágil );
+GA-005: Poker Plaining; ( Gestão Ágil );
+IHC-001: Brainstorming de idéias para o protótipo da Interface; ( Interação Humano Computador );
+IHC-002-parte1: Desesnvolvimento de Protótipo no Figma. ( Interação Humano Computador );
+
+18/09/2025
+
+Atividades Realizadas:
+
+Arthur Augusto:
+
+DW-001: Desenvolvimento Inicial da Interface ( Desenvolvimento Web II );
+
+Gustavo Silva:
+
+TP-001: Analise e Criaçao do Guia Para As APIs Do INPE ( Técnicas de Programação ).
+
+Anderson Fontes:
+
+GAP-006: Organização da Documentação de Apontamento das Atividades ( Gestão Ágil ).
+
+Rafel Shinji, Stefan Souza:
+
+TP-002: Analise e Estudo das APIs Necessarias para o Projeto.
+
+Anderson Fontes, Arthur Augusto, Gustavo Silva, Rafael Shinji, Stefan Souza:
+
+IHC-002-parte2: Desesnvolvimento de Protótipo no Figma. ( Interação Humano Computador ).
+
