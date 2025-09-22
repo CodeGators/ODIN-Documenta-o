@@ -9,5 +9,12 @@ IHC-001: Brainstorming de idéias para o protótipo da Interface; ( Interação 
 IHC-002-parte1: Desesnvolvimento de Protótipo no Figma. ( Interação Humano Computador );
 
 18/09/2025
+
 Atividades Realizadas:
 TP-002: Analise e Estudo das APIs Necessarias para o Projeto. ( Tecnica de Programacao )
+
+22/09/2025
+
+Atividades Realizadas:
+BDN-001: Criacao do diagrama de modelo do banco de dados ( Banco de dados nao relacional )
+
