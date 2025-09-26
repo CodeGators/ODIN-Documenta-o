@@ -1,12 +1,26 @@
 16/09/2025
 Atividades Realizadas:
-GA-002: Levantamento de Requisistos; ( Gestão Ágil );
-GA-003: Backlog; ( Gestão Ágil );
-GA-004: Sprint Backlog; ( Gestão Ágil );
-GA-005: Poker Plaining; ( Gestão Ágil );
-IHC-001: Brainstorming de idéias para o protótipo da Interface; ( Interação Humano Computador );
-IHC-002-parte1: Desesnvolvimento de Protótipo no Figma. ( Interação Humano Computador );
+GA-002: Levantamento de Requisistos; (Gestão Ágil);
+GA-003: Backlog; (Gestão Ágil);
+GA-004: Sprint Backlog; (Gestão Ágil);
+GA-005: Poker Plaining; (Gestão Ágil);
+IHC-001: Brainstorming de idéias para o protótipo da Interface; (Interação Humano Computador);
+IHC-002-parte1: Desesnvolvimento de Protótipo no Figma; (Interação Humano Computador);
 
 18/09/2025
 Atividades Realizadas:
-TP-002: Analise e Estudo das APIs Necessarias para o Projeto. 
+TP-002-parte1: Analise e Estudo das APIs Necessarias para o Projeto; (Técnicas de Programação);
+IHC-002-parte2: Desenvolvimento de Protótipo no Figma; (Interação Humano Computador);
+
+22/09/2025
+Atividades Realizadas:
+TP-002-parte2: Analise e Estudo das APIs Necessarias para o Projeto; (Técnicas de Programação);
+
+24/09/2025
+Atividades Realizadas:
+GAP-008: Reunião com o a equipe após reunião com o cliente; (Gestão Ágil);
+GAP-010: Criação das UserStorys; (Gestão Ágil);
+
+26/09/2025
+Atividade Realizadas:
+TP-004: Desenvolvimento dos Models; (Técnicas de Programação);
