@@ -40,29 +40,29 @@ Bem-vindo à documentação do Projeto ODIN. Este repositório serve como a font
 
 O andamento detalhado do projeto, incluindo as tarefas de cada sprint, é gerido através do nosso Trello.
 
-### [cite_start]Sprint 1: "Ponta pé inicial" [cite: 3]
-- [cite_start]**Período:** 16/09/2025 a 02/10/2025 [cite: 4]
-- [cite_start]**Status:** Meta Atingida [cite: 11]
+### Sprint 1: "Ponta pé inicial" 
+**Período:** 16/09/2025 a 02/10/2025 
+**Status:** Meta Atingida
 
 #### Meta da Sprint
-[cite_start]O principal objetivo da sprint era ter uma boa compreensão do que era desejado pelo cliente e apresentar uma interface inicial e funcional, visando atingir os requisitos impostos[cite: 9].
+O principal objetivo da sprint era ter uma boa compreensão do que era desejado pelo cliente e apresentar uma interface inicial e funcional, visando atingir os requisitos impostos.
 
 #### Resultados e Observações
 - **Pontos Positivos:**
-    - [cite_start]A equipe demonstrou bom entrosamento [cite: 24][cite_start], cooperação mútua [cite: 20] [cite_start]e proatividade dos membros ao auxiliar os demais[cite: 26].
-    - [cite_start]O desenvolvimento das tarefas propostas foi considerado ágil e efetivo[cite: 25].
-    - [cite_start]A gestão das documentações da equipe foi bem realizada, baseando-se na metodologia ágil do Scrum[cite: 21].
-    - [cite_start]A equipe teve a oportunidade de ter contato direto com o cliente para esclarecer ideias e requisitos[cite: 17].
+    A equipe demonstrou bom entrosamento, cooperação mútua e proatividade dos membros ao auxiliar os demais.
+    O desenvolvimento das tarefas propostas foi considerado ágil e efetivo.
+    A gestão das documentações da equipe foi bem realizada, baseando-se na metodologia ágil do Scrum.
+    A equipe teve a oportunidade de ter contato direto com o cliente para esclarecer ideias e requisitos.
 - **Desafios e Dificuldades:**
-    - [cite_start]Foram encontradas dificuldades com as APIs apresentadas devido à extensa quantidade de informações que elas continham[cite: 15, 29].
-    - [cite_start]Houve dificuldades em compreender claramente o objetivo principal do projeto, pois alguns requisitos eram ambíguos[cite: 16].
-    - [cite_start]Surgiram dúvidas sobre a utilização de um banco de dados, uma vez que foi disponibilizada uma API com dados em tempo real[cite: 30].
-    - [cite_start]A equipe enfrentou dificuldades com a infraestrutura (internet, tomadas, etc.)[cite: 19].
+    Foram encontradas dificuldades com as APIs apresentadas devido à extensa quantidade de informações que elas continham.
+    Houve dificuldades em compreender claramente o objetivo principal do projeto, pois alguns requisitos eram ambíguos.
+    Surgiram dúvidas sobre a utilização de um banco de dados, uma vez que foi disponibilizada uma API com dados em tempo real.
+    A equipe enfrentou dificuldades com a infraestrutura (internet, tomadas, etc.).
 
 #### Próximos Passos
-- [cite_start]Apresentar o que foi desenvolvido ao cliente[cite: 32].
-- [cite_start]Aprimorar e personalizar a parte visual da aplicação[cite: 33, 34].
-- [cite_start]Aplicar as funcionalidades das demais APIs apresentadas pelo cliente[cite: 35].
+Apresentar o que foi desenvolvido ao cliente.
+Aprimorar e personalizar a parte visual da aplicação.
+Aplicar as funcionalidades das demais APIs apresentadas pelo cliente.
 
 - **Sprint 2 (Futura):** Planeamento a ser definido.
 - **Sprint 3 (Futura):** Planeamento a ser definido.
