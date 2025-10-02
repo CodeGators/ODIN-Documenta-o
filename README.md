@@ -59,6 +59,10 @@ O principal objetivo da sprint era ter uma boa compreensão do que era desejado 
     Surgiram dúvidas sobre a utilização de um banco de dados, uma vez que foi disponibilizada uma API com dados em tempo real.
     A equipe enfrentou dificuldades com a infraestrutura (internet, tomadas, etc.).
 
+  #### BurnDown
+  <img width="1100" height="776" alt="image" src="https://github.com/user-attachments/assets/6a861d77-8631-4be9-ba77-922926a40ff2" />
+
+
 #### Próximos Passos
 Apresentar o que foi desenvolvido ao cliente.
 Aprimorar e personalizar a parte visual da aplicação.
