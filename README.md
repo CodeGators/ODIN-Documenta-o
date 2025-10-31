@@ -68,7 +68,7 @@ Apresentar o que foi desenvolvido ao cliente.
 Aprimorar e personalizar a parte visual da aplicação.
 Aplicar as funcionalidades das demais APIs apresentadas pelo cliente.
 
-- **Sprint 2 (Futura):** Planeamento a ser definido.
+- **Sprint 2 (Futura):** Desenvolvimento da página de dados e dashboard, implementação da api WTSS e aperfeiçoamento da estilização.
 - **Sprint 3 (Futura):** Planeamento a ser definido.
 
 ---
