@@ -68,7 +68,16 @@ Apresentar o que foi desenvolvido ao cliente.
 Aprimorar e personalizar a parte visual da aplicação.
 Aplicar as funcionalidades das demais APIs apresentadas pelo cliente.
 
-- **Sprint 2 (Futura):** Desenvolvimento da página de dados e dashboard, implementação da api WTSS e aperfeiçoamento da estilização.
+### Sprint 2: "Desenvolvimento do Dashboard"
+**Período:** 03/10/2025 a 31/10/2025
+**Status:** Meta Atingida
+
+#### Meta da Sprint
+Desenvolvimento da página de dados e dashboard, implementação da API WTSS e aperfeiçoamento da estilização da aplicação.
+
+#### BurnDown
+<img width="600" alt="Gráfico Burndown da Sprint 2" src="caminho/para/burndow2.webp" />
+
 - **Sprint 3 (Futura):** Planeamento a ser definido.
 
 ---
