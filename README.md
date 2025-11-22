@@ -75,10 +75,21 @@ Aplicar as funcionalidades das demais APIs apresentadas pelo cliente.
 #### Meta da Sprint
 Desenvolvimento da página de dados e dashboard, implementação da API WTSS e aperfeiçoamento da estilização da aplicação.
 
-#### BurnDown
-<img width="600" alt="Gráfico Burndown da Sprint 2" src="caminho/para/burndow2.webp" />
+#### Resultados e Observações
 
-- **Sprint 3 (Futura):** Planeamento a ser definido.
+- **Pontos Positivos:**
+    * **Proatividade:** A proatividade dos membros em buscar soluções e antecipar problemas foi crucial para manter o cronograma.
+    * **Comunicação:** A comunicação da equipe foi constante e transparente, garantindo que todos estivessem alinhados sobre o progresso e os impedimentos.
+    * **Entrosamento:** O forte entrosamento da equipe facilitou a colaboração mútua e a rápida resolução de pendências em conjunto.
+    
+- **Desafios e Dificuldades:**
+    * **Organização:** A organização e a priorização inicial das atividades da nova API (WTSS) apresentaram um desafio, exigindo um esforço extra para realinhar o planejamento durante a sprint.
+
+#### BurnDown
+> O gráfico demonstra a **conclusão bem-sucedida** da Sprint 2, com **100%** dos 59 pontos de esforço (Stories Points) e 29 cartões (tarefas) concluídos dentro dos 22 dias trabalhados. A linha azul de **'Points Remaining'** (Pontos Restantes) chegou a zero na data de estimativa (31 de Outubro), indicando que o esforço real (linha vermelha) acompanhou o ideal (linha amarela), resultando em um **Average Daily Burndown (Queima Diária Média)** de **2.68 pontos** e a meta alcançada no prazo.
+<img width="1100" height="776" alt="burndow2" src="https://github.com/user-attachments/assets/ffe268ab-ecb0-4754-9d49-cf5b156842f3" />
+
+- **Sprint 3 :** Em andamento
 
 ---
 
